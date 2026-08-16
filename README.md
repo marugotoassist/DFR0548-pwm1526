@@ -6,7 +6,8 @@ DFRobot micro:Driver(DFR0548)用の MakeCode スケッチ雛形。
 
 **PWM 周波数を micro:Driver(PCA9685)の上限 1526Hz に設定済み**。
 「最初だけ」ブロック内で `PWM周波数を設定 1526 Hz` を呼んでいる。
-既定の 50Hz 版は [DFR0548-pwm50](https://github.com/marugotoassist/DFR0548-pwm50) を参照。
+既定の 50Hz 版は [DFR0548-pwm50](https://github.com/marugotoassist/DFR0548-pwm50)、
+1526Hz+起動ブースト+最低速度補正版は [DFR0548-pwm1526-kick](https://github.com/marugotoassist/DFR0548-pwm1526-kick) を参照。
 
 > このページを開く [https://marugotoassist.github.io/DFR0548-pwm1526/](https://marugotoassist.github.io/DFR0548-pwm1526/)
 
